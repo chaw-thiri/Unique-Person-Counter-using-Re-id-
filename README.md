@@ -37,6 +37,7 @@ The system also counts the **number of unique people** who appear in the video.
 
 **Explanation of the Demo:**  
 In the above video, the person with **ID 5** got temporarily **occluded by ID 1**. However, as soon as ID 5 reappeared, the tracker correctly **regained its original ID (5)**, proving that **ReID successfully prevents ID switches after occlusion**.  
+[![Download another demo](https://github.com/chaw-thiri/Unique-Person-Counter-using-Re-id-/blob/main/thumbnail.png)](https://github.com/chaw-thiri/Unique-Person-Counter-using-Re-id-/blob/main/t_homeplus1.mp4)
 
 ---
 
