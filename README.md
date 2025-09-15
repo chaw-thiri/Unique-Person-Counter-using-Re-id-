@@ -11,7 +11,7 @@ The system also counts the **number of unique people** who appear in the video.
 
 ## ✨ Features
 
-- **Person detection** with YOLOv8/YOLO11 models  
+- **Person detection** with YOLO11 models  
 - **Re-identification (ReID)** using BoT-SORT → keeps the same ID after occlusion  
 - **Unique person counting** → tracks how many distinct people appeared throughout the video  
 - **Configurable frame-skipping** for faster processing (`process_every_n`)  
